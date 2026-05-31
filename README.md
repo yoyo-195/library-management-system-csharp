@@ -139,13 +139,6 @@ return _items
     .ToList();
 ```
 
-## Resume Description
-
-**Library Management System — C#, .NET, OOP, LINQ**
-
-- Built a fully functional console-based library management system using C# and .NET with OOP principles including inheritance, encapsulation, polymorphism, and abstraction.
-- Implemented LINQ-based search, filtering, sorting, grouping, and reporting features for books, magazines, DVDs, and members.
-- Developed CRUD operations, member management, borrowing/returning workflows, input validation, and a modular architecture with clear separation of concerns.
 
 ## Future Improvements
 
